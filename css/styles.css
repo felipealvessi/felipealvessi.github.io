@@ -238,8 +238,8 @@ header .fa-angle-double-down {
   min-height: 100vh;
   padding: 4em;
   align-items: center;
-  /* background-color: #05c2d6; */
-  background-image: url("../img/miraz-blur.jpg");
+  background-color: #4d2b8c; 
+ 
 
 }
 
@@ -253,7 +253,7 @@ header .fa-angle-double-down {
   border-width: 2px;
   border-style: solid;
   border-color: #fff;
-  color: rgb(12, 3, 3);
+  color: whitesmoke;
 }
 
 .knowledge .r1 {
