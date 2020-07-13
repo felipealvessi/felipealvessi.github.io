@@ -1,2 +1,1 @@
-# felipealvessi
-Site pessoal desenvolvido durante a semana de ImersãoCSS da Alura
+Portfólio criado, durante a imersãocss feito pela @alura-cursos
